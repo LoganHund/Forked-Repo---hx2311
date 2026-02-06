@@ -8,3 +8,6 @@ I found this article interesting because it gives a clear and practical format f
 
 It also changed how I think about collaboration. In team projects, people often search git history to understand when a change was introduced, why it was done, or how to revert it safely. If commit messages are messy, that process becomes slow and confusing. So improving commit messages is an easy habit that can reduce friction for the whole team.# Git Practice
 A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+## peer comment
+Big facts
